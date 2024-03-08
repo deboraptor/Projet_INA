@@ -3,8 +3,6 @@
 Données :
 Transcriptions automatiques corrigées des émissions radio et télé portant sur le
 Grand Paris (xml ou txt)
-- Contact :
-aurore.lessieux <aurore.lessieux@wanadoo.fr>
 - Objectif :
 Tester les outils de détection automatique de la subjectivité sur les données
 Outil : détection de modalité, d’émotions, de sentiments (lexiques
