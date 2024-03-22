@@ -16,7 +16,8 @@ with open("../M1/11870482.001.eaf", "r") as file:
                 participant_liste.append('Inconnu')
             else:
                 participant_liste.append(participant)
-    print(participant_liste)
+
+    # Les annotations
     alignable_annotation = soup.find_all('ALIGNABLE_ANNOTATION')
     annotation_value_liste = []
     for balise in alignable_annotation:
@@ -31,7 +32,7 @@ with open("../M1/11870482.001.eaf", "r") as file:
 # Et là je trie les balises des annotations par ordre croissant par rapport au time_slot_ref1
 sorted_annotation_values = sorted(annotation_value_liste, key=lambda x: x[0])
 
-
+"""
 file = open("resultats.csv", 'w')
 
 # Je fais une liste de compréhension pour que chaque élément soit une colonne pour le format csv
@@ -39,7 +40,12 @@ data = [(participant, annotation_value) for time_slot, annotation_value in sorte
 
 # Il faut maintenant mettre ligne par ligne chaque élément de la liste
 objet = csv.writer(file)
-for element in data:
-    objet.writerow(element)
-
+for element in annotation_value_liste:
+    # objet.writerow(element)
+    file.write(element)
 file.close()
+"""
+
+with open("resultats.csv", 'w') as file:
+    for time_slot, annotation_value in sorted_annotation_values:
+        file.write(annotation_value + "\n")
