@@ -1,6 +1,6 @@
 # Projet de fin d'année en enrichissement de corpus 
 ## Analyse des données sur le Grand Paris
-Données :
+### Données :
 Transcriptions automatiques corrigées des émissions radio et télé portant sur le
 Grand Paris (xml ou txt)
 - Objectif :
@@ -9,4 +9,18 @@ Outil : détection de modalité, d’émotions, de sentiments (lexiques
 existants, python, etc.)
 Analyser manuellement les résultats (observer à l’œil si les résultats sont
 pertinents) et proposer les meilleurs outils
+
+## Recherche de modules
+camemBERT, distilBERT (transformers), 
+
+__Module__ : TextBlob
+
+## Analyse
+### à faire absolument 
+* analyser la polarité
+* faire des graphiques "avant" sur des données brutes
+* faire les analyses "après"
+
+### à regarder plus tard
+* Regarder quel locuteur est triste 
 
