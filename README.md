@@ -10,3 +10,6 @@ existants, python, etc.)
 Analyser manuellement les résultats (observer à l’œil si les résultats sont
 pertinents) et proposer les meilleurs outils
 
+## 29/03
+
+J'ai pu trouver deux midèles qui fonctionnent bien, un pour la polarité et un pour les émotions. Mais j'ai également du tester plein de modèles qui be fonctionnaient pas ou qui demandaient des librairies que je n'i pas su utilisée.
