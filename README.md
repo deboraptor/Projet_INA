@@ -27,4 +27,13 @@ __Module__ : TextBlob
 
 ## TO-DO's
 - [ ] rajouter les locuteurs dans le fichier csv
+	- le module `speach` fait ça !! la commande c'est `python -m speach eaf2csv path/to/my_transcript.eaf -o path/to/my_transcript.csv`
+	- il faut séparer avec espace et ce caractère →
 - [ ] traiter le fichier csv pour qu'il soit en fichier txt
+
+## eaf2csv.sh
+Ce script Bash permet de convertir les fichiers .eaf en fichiers .csv en utilisant le module speach. 
+En parcourant tous les fichiers .eaf présents dans le répertoire spécifié, le script exécute la commande 
+`python3 -m speech eaf2csv` pour chacun d'entre eux. Les fichiers CSV générés sont délimités par des tabulations 
+et des flèches, et ils sont enregistrés dans le même répertoire que les fichiers .eaf d'origine, avec le même 
+nom de base mais une extension .csv.
