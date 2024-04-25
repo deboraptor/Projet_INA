@@ -1,0 +1,32 @@
+*PRE	PRE	10.320	12.775	2.455	affrontements à la mairie de Boulogne+Billancourt
+*PRE	PRE	12.775	14.857	2.082	t+shirts tracts le message est clair
+*PRE	PRE	14.857	17.618	2.761	non autour du projet de l' architecte Jean+Nouvel
+*PRE	PRE	17.618	23.060	5.442	un collectif de Meudon dénonce la hauteur de ses futures tours de bureaux une centaine de mètres chacune
+*PRE	PRE	23.060	31.390	8.330	 l' île écologique prévue par Jean+Nouvel abritera trois+cent+dix+mille mètres carrés de constructions dont près de la moitié consacrée aux activités culturelles
+*PRE	PRE	31.390	33.130	1.740	aucun logement n' est envisagé
+*PRE	PRE	33.130	40.120	6.990	vous voyez ici la future rue commerçante proche du complexe cinématographique et le grand jardin central plus ou moins couvert en fonction des saisons
+*PRE	PRE	56.240	61.035	4.795	historique le site accueille l' usine Renault de 1929 à 1992
+*PRE	PRE	61.035	64.252	3.217	jusqu' à trente+mille employés y assemblent les véhicules de la marque
+*PRE	PRE	64.252	69.550	5.298	depuis sa fermeture les propositions d' aménagement de cette île de onze hectares se sont multipliées
+*PRE	PRE	69.550	73.930	4.380	tous abandonnés le projet adopté hier le premier du Grand Paris naît dans la douleur 
+*PRE	PRE	96.060	104.060	8.000	les travaux de ce gigantesque chantier devraient débuter en 2013 pour une livraison en 2018 mais plusieurs associations ont déjà annoncé
+*POL2		40.120	45.690	5.570	c' est la plus belle concentration de tous les arts qu'on aura à proposer en dans toute l'Europe
+*POL2		45.690	54.055	8.365	avec les arts numériques euh les arts cinématographiques les arts du cirque les arts du vivant la musique la danse l' art contemporain
+*POL2		54.055	56.240	2.185	c' est un festival de pôles de destination
+*ARC		73.930	76.000	2.070	il y a eu un commissaire enquêteur
+*ARC		76.000	78.230	2.230	il y a eu une enquête qui s' est très très bien passé tout le monde considère qu' il y a un très bon équilibre euh on pointe on a quand même cinq à six cinq à six hectares d' espaces verts
+*ARC		78.230	81.100	2.870	tout le monde considère qu' il y a un très bon équilibre euh on pointe on a quand même cinq à six cinq à six hectares d' espaces verts
+*ARC		81.100	84.780	3.680	euh on a quand même cinq à six cinq à six hectares d' espaces verts
+*RES		84.780	88.040	3.260	Meudon Bellevue c' est euh cent mètres euh de l'Ile Seguin
+*RES		88.040	90.080	2.040	vous traversez la Seine et vous êtes à Meudon et Meudon c' est juste en face alors à cent mètres mettre une barrière d' immeubles on aurait pu être interrogés
+*RES		90.080	96.060	5.980	et Meudon c' est juste en face alors à cent mètres mettre une barrière d' immeubles on aurait pu être interrogés
+*POL		0.000	7.675	7.675	vous criez très fort
+*POL		7.675	10.320	2.645	la prochaine fois je vous préviens je fais évacuer la salle
+perception		0.000	7.675	7.675	"""criez"""
+perception		10.320	12.775	2.455	affrontements
+perception		17.618	23.060	5.442	"""dénonce"""
+perception		40.120	45.690	5.570	"""la plus belle"""
+perception		54.055	56.240	2.185	"""festival"""
+perception		69.550	73.930	4.380	"""douleur"""
+perception		76.000	78.230	2.230	"""très très bien passé"""
+perception		78.230	81.100	2.870	"""très bon"""
