@@ -26,10 +26,14 @@ __Module__ : TextBlob
 * Regarder quel locuteur est triste ?
 
 ## TO-DO's
-- [ ] rajouter les locuteurs dans le fichier csv
+- [X] rajouter les locuteurs dans le fichier csv
 	- le module `speach` fait ça !! la commande c'est `python -m speach eaf2csv path/to/my_transcript.eaf -o path/to/my_transcript.csv`
 	- il faut séparer avec espace et ce caractère →
 - [ ] traiter le fichier csv pour qu'il soit en fichier txt
+
+### Problèmes
+Le fichier 4169456.001.006.eaf n'a qu'une seule ligne de dialogue et pose problème lors de la
+conversion en CSV, le fichier ressort vide. A voir plus tard si c'est possible de le gérer.
 
 ## eaf2csv.sh
 Ce script Bash permet de convertir les fichiers .eaf en fichiers .csv en utilisant la librairie *speach*. 
