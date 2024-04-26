@@ -1,4 +1,4 @@
-# Projet de fin d'année en enrichissement de corpus 
+# Exploration de la perception dans les transcriptions d’émissions de télé et radio (INA)
 ## Analyse des données sur le Grand Paris
 ### Données :
 Transcriptions automatiques corrigées des émissions radio et télé portant sur le
