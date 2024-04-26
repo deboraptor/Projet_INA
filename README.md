@@ -37,3 +37,12 @@ En parcourant tous les fichiers .eaf présents dans le répertoire spécifié, l
 `python3 -m speech eaf2csv` pour chacun d'entre eux. Les fichiers CSV générés sont délimités par des tabulations 
 et des flèches, et ils sont enregistrés dans le même répertoire que les fichiers .eaf d'origine, avec le même 
 nom de base mais une extension .csv.
+
+## modifier_csv.py
+Après avoir lancé le script bash `eaf2csv.sh`, on lance celui-ci immdiatement pour supprimer 
+les colonnes dont on a pas besoin. Le script parcours dans le dossier `fichiers_extraits` et
+cherche tous les fichiers dont l'extension est .eaf. Ensuite, il supprime les colonnes inutes
+à savoir les colonnes 2, 3, 4 et 5. Le séparateur des fichiers CSV est maintenant la virgule.
+
+-> à essayer de l'inclure directement dans le fichier bash, quand je l'ai fais j'avais pas 
+géré les erreurs et ça ne fonctionnait pas.
