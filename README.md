@@ -32,7 +32,7 @@ __Module__ : TextBlob
 - [ ] traiter le fichier csv pour qu'il soit en fichier txt
 
 ## eaf2csv.sh
-Ce script Bash permet de convertir les fichiers .eaf en fichiers .csv en utilisant le module speach. 
+Ce script Bash permet de convertir les fichiers .eaf en fichiers .csv en utilisant la librairie *speach*. 
 En parcourant tous les fichiers .eaf présents dans le répertoire spécifié, le script exécute la commande 
 `python3 -m speech eaf2csv` pour chacun d'entre eux. Les fichiers CSV générés sont délimités par des tabulations 
 et des flèches, et ils sont enregistrés dans le même répertoire que les fichiers .eaf d'origine, avec le même 
