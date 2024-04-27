@@ -41,7 +41,7 @@ for fichier in dossier_fichiers:
     sorted_annotation_values = sorted(annotation_value_liste, key=lambda x: int(x[1].split('ts')[-1]))
 
     # Écrit les annotations avec les noms des locuteurs dans le fichier CSV
-    with open(os.path.join('fichiers_extraits', nom_fichier_csv), 'w', newline='') as csvfile:
+    with open(os.path.join('fichiers_csv', nom_fichier_csv), 'w', newline='') as csvfile:
         objet = csv.writer(csvfile)
         for participant, _, annotation_value in sorted_annotation_values:
             objet.writerow([participant, annotation_value])

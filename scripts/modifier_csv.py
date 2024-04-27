@@ -3,7 +3,7 @@ import glob
 import os
 
 
-fichiers = glob.glob("./fichiers_extraits/*.csv") 
+fichiers = glob.glob("./data/fichiers_csv_/*.csv") 
 
 for fichier in fichiers:
     df = pd.read_csv(fichier, sep="\t")

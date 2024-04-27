@@ -1,10 +1,11 @@
-#!bin/bash
+#!/bin/bash
 
-chemin="../Projet_INA/fichiers_extraits"
+chemin="../data/fichiers_csv"
 
-for eaf in ../M1/*.eaf; 
+for eaf in ../../M1/*.eaf;
 do
-  base="${eaf%.*}"
-  base="${eaf##*/}"
+  base="$(basename "$eaf" .eaf)"
   python3 -m speach eaf2csv "$eaf" -o "${chemin}/${base}.csv"
+  python3 modifier_csv.py
+  python3 csv2txt.py
 done
