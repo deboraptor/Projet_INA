@@ -16,19 +16,15 @@ camemBERT, distilBERT (transformers)
 
 __Module__ : TextBlob
 
-## Analyse
-### A faire absolument 
-* analyser la polarité
-* faire des graphiques "avant" sur des données brutes
-* faire les analyses "après"
-* Regarder quel locuteur est triste pour faire un lien avec l'objectivité du journalite/présentateur ?
-
 ## TO-DO's
 - [X] rajouter les locuteurs dans le fichier csv
-	- le module `speach` fait ça !!
-	- il faut séparer avec espace et ce caractère →
 - [X] traiter le fichier csv pour qu'il soit en fichier txt
-- [X] corriger les erreurs des fichiers CSV qui se terminent par .eaf.csv
+- [X] corriger les erreurs des fichiers csv qui se terminent par .eaf.csv
+- [ ] faire l'annotation automatique des .txt
+- [ ] faire le gold standard
+- [ ] faire les mesures de fiabilité du modèle
+- [ ] faire l'accord inter-annotateur
+- [ ] faire des graphiques "avant/après" 
 
 ### Problèmes
 Le fichier 4169456.001.006.eaf n'a qu'une seule ligne de dialogue et pose problème lors de la conversion en CSV, le fichier ressort vide. A voir plus tard si c'est possible de le gérer.
