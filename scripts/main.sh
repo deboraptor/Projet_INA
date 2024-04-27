@@ -10,3 +10,5 @@ done
 
 python3 modifier_csv.py
 python3 csv2txt.py
+find ../data/fichiers_csv/ -type f -regex '.*\.eaf\.csv$' -delete
+find ../data/fichiers_txt/ -type f -regex '.*\.eaf\.txt$' -delete
