@@ -2,7 +2,7 @@ import pandas as pd
 import glob
 import os
 
-fichiers = glob.glob("./data/fichiers_csv_/*.csv")
+fichiers = glob.glob("../data/fichiers_csv/*.csv")
 
 succes = 0
 erreur = 0
