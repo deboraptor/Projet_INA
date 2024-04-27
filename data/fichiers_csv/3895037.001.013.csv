@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *PRE	PRE	0.000	5.550	5.550	démarré en 2012 un Grand Paris pour que toute l'Ile+de+France se sente parisienne 
 *PRE	PRE	5.550	7.360	1.810	est ce qu' elle l' est aujourd'hui
 *PRE	PRE	7.360	13.960	6.600	à la campagne à la future à la limite de ce futur Grand Paris en Vallée+de+Chevreuse Anne+Marie+Blanchet Marc+Bulka 
@@ -29,3 +30,35 @@ perception		55.020	60.050	5.030	"""se sent pas parisiens"""
 perception		62.700	66.140	3.440	"""espèrent"""
 perception		78.990	81.460	2.470	"""avec impatience"""
 perception		81.460	84.780	3.320	"""inquiète"""
+=======
+*PRE,est ce qu' elle l' est aujourd'hui
+*PRE,à la campagne à la future à la limite de ce futur Grand Paris en Vallée+de+Chevreuse Anne+Marie+Blanchet Marc+Bulka 
+*OFF,Bures+sur+Yvette un bourg peut être aux frontières du futur Grand Paris mais qui est à trente kilomètres de la capitale
+*OFF,pour certains habitants de Bures devenir parisien oh la pas si vite 
+*OFF,pour beaucoup le Grand Paris c' est encore l' arlésienne
+*OFF,la tranquillité d' un bourg de province avec l' avantage d' une grande ville à proximité
+*OFF,c' est cela que les habitants craignent de perdre 
+*OFF,chez ceux nombreux tout de même qui espèrent du Grand Paris
+*OFF,un leitmotiv l' amélioration des transports 
+*OFF,le Grand Paris inquiète par certains côtés
+*OFF,et donc rallonger les temps de transport pour les plus démunis à l' exemple de ce qui
+*CIT1,euh non c' est la Vallée+de+chevreuse et ça restera la Vallée+de+Chevreuse je suis banlieusarde avant tout et voilà 
+*CIT1,je suis banlieusarde avant tout et voilà 
+*CIT2,Paris moins j' y vais mieux je me porte
+*CIT3,quand quand il sera fait je vais vous dire que euh je serais peut être plus là hein
+*CIT3,parce que dans vingt ans ils ont dit que ça sera fait 
+*CIT4,mais nous on ne se sent pas parisiens 
+*CIT4,on est en région parisienne mais on ne se sent pas parisiens
+*CIT4,c' est pas du tout la même vie que mènent les parisiens et nous 
+*CIT5,avoir des transports un peu plus pratique que ce qu' on a
+*CIT5,un peu plus fiable et plus sûr que ce qu'il y a
+*CIT6,je pourrais euh aller dans des banlieues euh adjacentes beaucoup plus facilement
+*CIT6,et j'attends ça avec impatience
+*CIT7,le Grand Paris s'il s'étend va sans doute devenir beaucoup plus cher aussi euh dans la périphérie
+*CIT7,c'est à dire que pour les générations qui arrivent euh peut être ça va encore plus les expatrier de leur région euh
+perception,"""moins j'y vais mieux je me porte"""
+perception,"""se sent pas parisiens"""
+perception,"""espèrent"""
+perception,"""avec impatience"""
+perception,"""inquiète"""
+>>>>>>> Débora
