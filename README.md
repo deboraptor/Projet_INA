@@ -41,3 +41,9 @@ Ce script permet de supprimer les colonnes dont on a pas besoin. Le script parco
 
 ## csv2txt.py
 Ce script permet d'extraire et de nettoyer le contenu textuel présent dans les fichiers CSV, en supprimant les parties indésirables situées à gauche de la virgule ainsi que la virgule elle-même. Le script traite chaque fichier CSV dans un répertoire donné, puis écrit le texte nettoyé dans un fichier texte correspondant. L'objectif principal de ce script est de préparer les données textuelles pour l'annotation automatique ultérieure, en facilitant le processus et en améliorant la qualité des données d'entrée.
+## 29/03
+
+J'ai pu trouver deux midèles qui fonctionnent bien, un pour la polarité et un pour les émotions. Mais j'ai également du tester plein de modèles qui be fonctionnaient pas ou qui demandaient des librairies que je n'i pas su utilisée.
+
+##  05/04
+pattern.py : ça permet d'obtenir la polarité et la subectivité d'une string. Facile à utiliser ais je n'arrive pas à installer le module pattern.
