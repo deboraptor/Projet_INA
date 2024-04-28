@@ -13,3 +13,6 @@ pertinents) et proposer les meilleurs outils
 ## 29/03
 
 J'ai pu trouver deux midèles qui fonctionnent bien, un pour la polarité et un pour les émotions. Mais j'ai également du tester plein de modèles qui be fonctionnaient pas ou qui demandaient des librairies que je n'i pas su utilisée.
+
+##  05/04
+pattern.py : ça permet d'obtenir la polarité et la subectivité d'une string. Facile à utiliser ais je n'arrive pas à installer le module pattern.
