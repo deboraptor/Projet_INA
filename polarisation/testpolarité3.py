@@ -8,6 +8,6 @@ model = TFAutoModelForSequenceClassification.from_pretrained("tblard/tf-allocine
 
 nlp = pipeline('sentiment-analysis', model=model, tokenizer=tokenizer)
 
-text = "Je pense que cela n'est pas mauvais."
+text = "Je ne sais pas."
 result = nlp(text)
 print(result[0]["label"])
