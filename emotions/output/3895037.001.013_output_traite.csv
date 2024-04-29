@@ -1,0 +1,29 @@
+speaker,text,label
+*OFF,Bures+sur+Yvette bourg peut être frontières futur Grand Paris trente kilomètres capitale,fear
+*OFF,certains habitant Bures devenir parisien oh pa si vite,anger
+*OFF,beaucoup Grand Paris ' encore ' arlésienne,fear
+*OFF,tranquillité ' bourg province ' avantage ' grande ville proximité,joy
+*OFF,' cela habitant craignent perdre,fear
+*OFF,chez ceux nombreux tout espèrent Grand Paris,joy
+*OFF,leitmotiv ' amélioration transport,joy
+*OFF,Grand Paris inquiète certains côtés,fear
+*OFF,donc rallonger temp transport plus démunis ' exemple,sadness
+*CIT1,euh non ' Vallée+de+chevreuse ça restera Vallée+de+Chevreuse banlieusarde avant tout voilà,sadness
+*CIT1,banlieusarde avant tout voilà,joy
+*CIT2,Paris moins ' vais mieux porte,joy
+*CIT3,quand quand serum fait vais dire euh peut être plus là hein,anger
+*CIT3,parce vingt an dit ça serum fait,sadness
+*CIT4,sent pa parisiens,anger
+*CIT4,région parisienne sent pa parisiens,anger
+*CIT4,' pa tout vie mènent parisiens,anger
+*CIT5,avoir transport peu plus pratique ' a,joy
+*CIT5,peu plus fiable plus sûr qu'il a,joy
+*CIT6,pourrais euh aller banlieues euh adjacentes beaucoup plus facilement,joy
+*CIT6,j'attends ça impatience,anger
+*CIT7,Grand Paris s'il s'étend va sans doute devenir beaucoup plus cher aussi euh périphérie,joy
+*CIT7,c'est dire générations arrivent euh peut être ça va encore plus expatrier région euh,love
+perception,`` moins ' vais mieux porte '' '' '',joy
+perception,`` sent pa parisiens '' '' '',anger
+perception,`` espèrent '' '' '',joy
+perception,`` impatience '' '' '',anger
+perception,`` inquiète '' '' '',fear

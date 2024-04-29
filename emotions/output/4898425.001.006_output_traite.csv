@@ -1,0 +1,35 @@
+speaker,text,label
+*PRE,tout deux+cents kilomètres ligne soixante+dix nouvelles gares censées désengorger transport franciliens,fear
+*PRE,' idée née cours précédent quinquennat celui Nicolas+Sarkozy,anger
+*PRE,cinq an changement majorité plus tard donne ' plus,sadness
+*PRE,treize décembre dernier Cécile+Duflot ministre charge Grand Paris express reçoit rapport très critique sujet,joy
+*PRE,auteur Pascal+Auzannet conclut chantier chiffrerait non plus vingt plus trente+milliards ' euro,joy
+*PRE,livraison finale 2040 plutôt 2025,joy
+*PRE,protestation unanime élus concernés droite comme gauche,anger
+*PRE,' assemblée nationale ' opposition voit là début d'enterrement projet demande aussi comptes,sadness
+*PRE,pa quoi rassurer totalement élus,fear
+*PRE,mois dernier près quarante ' entre lancent appel depuis palais Bourbon veulent pa grand paris express sacrifié cause rigueur budgétaire obtenir métro prêts négocier,sadness
+*PRE,veulent pa Grand Paris express sacrifié cause rigueur budgétaire,anger
+*PRE,obtenir métro prêts négocier,joy
+*PRE,désormais revient premier ministre trancher,joy
+*PRE,initialement prévue quinze février arbitrage Grand Paris express attendus tous prochains jours,fear
+*POL1,' processus transformation,fear
+*POL1,' ' exploitation tous possible,joy
+*POL1,' bien conscience cette nouvelle page ' histoire Paris nul peut l'écrire seul,joy
+*POL2,l'âge ' euh aussi euh va pa quand euh dire bon réveil momie 2000 3020 voilà hein,sadness
+*POL3,crains ' étalement temp trop long veuille dire dernières étapes euh ' grâce seigneur,love
+*POL3,' dire verra bien si arrive faire,joy
+*POL3,parce quand dit va faire telle telle morceau vingt an serum bonne volonté ' état vingt an,joy
+*POL4,rapport dont conseillers tout simplement dicté rédaction affligeant,sadness
+*POL4,pouvez engager aujourd'hui devant représentation nationale purement simplement mettre panier rapport,joy
+*POL5,voudrais rappeler projet Cécile+Duflot ' dit mois juillet,love
+*POL5,projet Grand Paris express soutenu gouvernement totalité serum serum réalisé,joy
+*POL6,pouvons réaliser partie aérien,joy
+*POL6,' déjà fois plan technique délais plus court aussi coûts moins important puis euh pourrons matériels quais plus court plus court ' aussi euh économique,fear
+*POL6,puis euh pourrons matériels quais plus court quais plus court ' aussi euh économie,joy
+perception,`` tous possible '' '' '',joy
+perception,`` très critique '' '' '',joy
+perception,`` protestation unanime '' '' '',anger
+perception,`` affligeant '' '' '',anger
+perception,`` soutenu '' '' '',love
+perception,`` pa quoi rassurer totalement '' '' '',sadness

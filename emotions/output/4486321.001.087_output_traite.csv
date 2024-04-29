@@ -1,0 +1,30 @@
+speaker,text,label
+*PRE,collectif Meudon dénonce hauteur future tour bureau centaine mètres chacune,anger
+*PRE,' île écologique prévue Jean+Nouvel abritera trois+cent+dix+mille mètres carrés construction dont près moitié consacrée activités culturelles,love
+*PRE,aucun logement ' envisagé,fear
+*PRE,voyez ici future rue commerçante proche complexe cinématographique grand jardin central plus moins couvert fonction saisons,joy
+*PRE,historique site accueille ' usine Renault 1929 1992,joy
+*PRE,jusqu ' trente+mille employés assemblent véhicules marque,anger
+*PRE,depuis fermeture proposition ' aménagement cette île onze hectare multipliées,sadness
+*PRE,tous abandonnés projet adopté hier premier Grand Paris naît douleur,sadness
+*PRE,travaux gigantesque chantier devraient débuter 2013 livraison 2018 plusieurs association déjà annoncé,joy
+*POL2,' plus belle concentration tous art qu'on proposer toute l'Europe,love
+*POL2,art numériques euh art cinématographiques art cirque art vivant musique danse ' art contemporain,joy
+*POL2,' festival pôles destination,joy
+*ARC,a commissaire enquêteur,fear
+*ARC,a enquête ' très très bien passé tout monde considère ' a très bon équilibre euh pointe a quand cinq six cinq six hectare ' espaces verts,joy
+*ARC,tout monde considère ' a très bon équilibre euh pointe a quand cinq six cinq six hectare ' espaces verts,joy
+*ARC,euh a quand cinq six cinq six hectare ' espaces verts,joy
+*RES,Meudon Bellevue ' euh cent mètres euh l'Ile Seguin,fear
+*RES,traversez Seine Meudon Meudon ' juste face alors cent mètres mettre barrière ' immeubles pu être interrogés,fear
+*RES,Meudon ' juste face alors cent mètres mettre barrière ' immeubles pu être interrogés,fear
+*POL,criez très fort,joy
+*POL,prochaine fois préviens fais évacuer salle,fear
+perception,`` criez '' '' '',joy
+perception,affrontements,fear
+perception,`` dénonce '' '' '',anger
+perception,`` plus belle '' '' '',love
+perception,`` festival '' '' '',joy
+perception,`` douleur '' '' '',sadness
+perception,`` très très bien passé '' '' '',joy
+perception,`` très bon '' '' '',joy
