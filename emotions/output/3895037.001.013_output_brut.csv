@@ -1,0 +1,29 @@
+speaker,text,label
+*OFF,Bures+sur+Yvette un bourg peut être aux frontières du futur Grand Paris mais qui est à trente kilomètres de la capitale,fear
+*OFF,pour certains habitants de Bures devenir parisien oh la pas si vite ,fear
+*OFF,pour beaucoup le Grand Paris c' est encore l' arlésienne,joy
+*OFF,la tranquillité d' un bourg de province avec l' avantage d' une grande ville à proximité,joy
+*OFF,c' est cela que les habitants craignent de perdre ,fear
+*OFF,chez ceux nombreux tout de même qui espèrent du Grand Paris,joy
+*OFF,un leitmotiv l' amélioration des transports ,joy
+*OFF,le Grand Paris inquiète par certains côtés,fear
+*OFF,et donc rallonger les temps de transport pour les plus démunis à l' exemple de ce qui,sadness
+*CIT1,euh non c' est la Vallée+de+chevreuse et ça restera la Vallée+de+Chevreuse je suis banlieusarde avant tout et voilà ,joy
+*CIT1,je suis banlieusarde avant tout et voilà ,joy
+*CIT2,Paris moins j' y vais mieux je me porte,joy
+*CIT3,quand quand il sera fait je vais vous dire que euh je serais peut être plus là hein,joy
+*CIT3,parce que dans vingt ans ils ont dit que ça sera fait ,sadness
+*CIT4,mais nous on ne se sent pas parisiens ,joy
+*CIT4,on est en région parisienne mais on ne se sent pas parisiens,joy
+*CIT4,c' est pas du tout la même vie que mènent les parisiens et nous ,anger
+*CIT5,avoir des transports un peu plus pratique que ce qu' on a,joy
+*CIT5,un peu plus fiable et plus sûr que ce qu'il y a,joy
+*CIT6,je pourrais euh aller dans des banlieues euh adjacentes beaucoup plus facilement,joy
+*CIT6,et j'attends ça avec impatience,surprise
+*CIT7,le Grand Paris s'il s'étend va sans doute devenir beaucoup plus cher aussi euh dans la périphérie,joy
+*CIT7,c'est à dire que pour les générations qui arrivent euh peut être ça va encore plus les expatrier de leur région euh,love
+perception,"""moins j'y vais mieux je me porte""""""",joy
+perception,"""se sent pas parisiens""""""",anger
+perception,"""espèrent""""""",love
+perception,"""avec impatience""""""",joy
+perception,"""inquiète""""""",fear
