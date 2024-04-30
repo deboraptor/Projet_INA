@@ -32,6 +32,7 @@ def zipf(chemin_csv, sortie_fichier, sortie_total, type):
     total_nom_fichier = f"total_{type}_zipf.png"
     total_nom_chemin = os.path.join(sortie_fichier, total_nom_fichier)
     plt.savefig(total_nom_chemin)
+    plt.clf()
 
     # for fichier in fichiers_csv:
     #     df = pd.read_csv(fichier)
