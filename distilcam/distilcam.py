@@ -29,16 +29,18 @@ def division_analyse (text):
     
     return results
 
-
-chemin = "data/fichiers_lemmes/"
-for file in os.listdir(chemin):
-    fichier = os.path.join(chemin,file)
-    with open (fichier, "r", encoding="utf-8") as f :
-        r = f.read()
-        #print (r)
-        if not r:
-            result = "Empty file"
-        else :
-            result = division_analyse(r)
+def main ():
+    chemin = "data/fichiers_lemmes/"
+    for file in os.listdir(chemin):
+        fichier = os.path.join(chemin,file)
+        with open (fichier, "r", encoding="utf-8") as f :
+            r = f.read()
+            #print (r)
+            if not r:
+                result = "Empty file"
+            else :
+                result = division_analyse(r)
         
-        print (file, result)
+            print (file, result)
+
+main()
