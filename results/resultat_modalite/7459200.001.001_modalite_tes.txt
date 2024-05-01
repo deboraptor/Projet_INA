@@ -1,0 +1,31 @@
+
+====== Text Level Features ======
+
+Features :: Feature-Counts :: Feature-Lemmas
+--------------------------------------------
+marqueurs :: 21 :: [ mal, grand, affirmer, grand, devoir, devoir, détruire, besoin, mal, imaginer, aller, devoir, aller, connaître, personne, vouloir, dire, souvenir, défendre, envie, dire ]
+marqueurs_niveau0 :: 13 :: [ mal, grand, grand, devoir, devoir, besoin, mal, imaginer, devoir, vouloir, dire, envie, dire ]
+alethique :: 7 :: [ devoir, devoir, besoin, aller, devoir, aller, personne ]
+epistemique :: 7 :: [ grand, grand, devoir, devoir, imaginer, devoir, connaître ]
+epistemique_niveau0 :: 6 :: [ grand, grand, devoir, devoir, imaginer, devoir ]
+boulique :: 5 :: [ besoin, vouloir, dire, envie, dire ]
+boulique_niveau0 :: 5 :: [ besoin, vouloir, dire, envie, dire ]
+axiologique :: 4 :: [ mal, détruire, mal, défendre ]
+marqueurs_niveau2 :: 4 :: [ détruire, aller, aller, défendre ]
+alethique_niveau0 :: 4 :: [ devoir, devoir, besoin, devoir ]
+appreciatif :: 3 :: [ mal, détruire, mal ]
+deontique :: 3 :: [ devoir, devoir, devoir ]
+deontique_niveau0 :: 3 :: [ devoir, devoir, devoir ]
+pas_d_indication :: 2 :: [ affirmer, souvenir ]
+marqueurs_niveau1 :: 2 :: [ connaître, personne ]
+marqueurs_niveau3 :: 2 :: [ affirmer, souvenir ]
+alethique_niveau2 :: 2 :: [ aller, aller ]
+appreciatif_niveau0 :: 2 :: [ mal, mal ]
+axiologique_niveau0 :: 2 :: [ mal, mal ]
+axiologique_niveau2 :: 2 :: [ détruire, défendre ]
+pas_d_indication_niveau3 :: 2 :: [ affirmer, souvenir ]
+alethique_niveau1 :: 1 :: [ personne ]
+appreciatif_niveau2 :: 1 :: [ détruire ]
+epistemique_niveau1 :: 1 :: [ connaître ]
+Total feature counts: 104
+

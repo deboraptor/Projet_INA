@@ -1,0 +1,30 @@
+
+====== Text Level Features ======
+
+Features :: Feature-Counts :: Feature-Lemmas
+--------------------------------------------
+marqueurs :: 37 :: [ crise, travail, sensible, table, grand, espérer, pouvoir, épidémie, crise, rapide, réussir, spectacle, certain, crainte, perdre, inquiétude, pouvoir, sembler, toujours, petit, partir, fort, tenter, savoir, venir, aller, dire, grand, manifestation, rien, beaucoup, risquer, long, savoir, imaginer, pouvoir, falloir ]
+marqueurs_niveau0 :: 21 :: [ travail, table, grand, espérer, pouvoir, rapide, réussir, certain, pouvoir, sembler, toujours, petit, savoir, venir, dire, grand, risquer, savoir, imaginer, pouvoir, falloir ]
+epistemique :: 19 :: [ crise, grand, espérer, pouvoir, crise, rapide, certain, crainte, inquiétude, pouvoir, sembler, petit, savoir, grand, beaucoup, long, savoir, imaginer, pouvoir ]
+epistemique_niveau0 :: 13 :: [ grand, espérer, pouvoir, rapide, certain, pouvoir, sembler, petit, savoir, grand, savoir, imaginer, pouvoir ]
+alethique :: 9 :: [ table, pouvoir, pouvoir, toujours, partir, venir, aller, rien, pouvoir ]
+appreciatif :: 9 :: [ crise, travail, crise, réussir, spectacle, crainte, perdre, inquiétude, risquer ]
+marqueurs_niveau1 :: 9 :: [ crise, crise, spectacle, crainte, perdre, inquiétude, tenter, rien, long ]
+alethique_niveau0 :: 6 :: [ table, pouvoir, pouvoir, toujours, venir, pouvoir ]
+appreciatif_niveau1 :: 6 :: [ crise, crise, spectacle, crainte, perdre, inquiétude ]
+epistemique_niveau1 :: 5 :: [ crise, crise, crainte, inquiétude, long ]
+deontique :: 4 :: [ pouvoir, pouvoir, pouvoir, falloir ]
+pas_d_indication :: 4 :: [ sensible, épidémie, fort, manifestation ]
+marqueurs_niveau3 :: 4 :: [ sensible, épidémie, fort, manifestation ]
+deontique_niveau0 :: 4 :: [ pouvoir, pouvoir, pouvoir, falloir ]
+pas_d_indication_niveau3 :: 4 :: [ sensible, épidémie, fort, manifestation ]
+boulique :: 3 :: [ espérer, tenter, dire ]
+marqueurs_niveau2 :: 3 :: [ partir, aller, beaucoup ]
+appreciatif_niveau0 :: 3 :: [ travail, réussir, risquer ]
+alethique_niveau2 :: 2 :: [ partir, aller ]
+boulique_niveau0 :: 2 :: [ espérer, dire ]
+alethique_niveau1 :: 1 :: [ rien ]
+boulique_niveau1 :: 1 :: [ tenter ]
+epistemique_niveau2 :: 1 :: [ beaucoup ]
+Total feature counts: 170
+

@@ -1,0 +1,33 @@
+
+====== Text Level Features ======
+
+Features :: Feature-Counts :: Feature-Lemmas
+--------------------------------------------
+marqueurs :: 32 :: [ famille, pouvoir, quitter, grand, grand, devoir, grand, contrecœur, selon, grand, famille, devoir, laisser, grand, besoin, mal, imaginer, aller, devoir, aller, connaître, personne, juste, oser, essayer, oublier, difficile, difficile, pouvoir, bien, bien, jamais ]
+marqueurs_niveau0 :: 19 :: [ pouvoir, grand, grand, devoir, grand, selon, grand, devoir, grand, besoin, mal, imaginer, devoir, juste, essayer, pouvoir, bien, bien, jamais ]
+epistemique :: 16 :: [ pouvoir, grand, grand, devoir, grand, selon, grand, devoir, grand, imaginer, devoir, connaître, essayer, difficile, difficile, pouvoir ]
+alethique :: 13 :: [ famille, pouvoir, quitter, devoir, famille, devoir, besoin, aller, devoir, aller, personne, pouvoir, jamais ]
+epistemique_niveau0 :: 13 :: [ pouvoir, grand, grand, devoir, grand, selon, grand, devoir, grand, imaginer, devoir, essayer, pouvoir ]
+marqueurs_niveau1 :: 8 :: [ quitter, contrecœur, laisser, connaître, personne, oser, difficile, difficile ]
+alethique_niveau0 :: 7 :: [ pouvoir, devoir, devoir, besoin, devoir, pouvoir, jamais ]
+appreciatif :: 6 :: [ mal, oser, difficile, difficile, bien, bien ]
+deontique :: 6 :: [ pouvoir, devoir, devoir, laisser, devoir, pouvoir ]
+axiologique :: 5 :: [ mal, juste, oser, bien, bien ]
+deontique_niveau0 :: 5 :: [ pouvoir, devoir, devoir, devoir, pouvoir ]
+marqueurs_niveau2 :: 4 :: [ famille, famille, aller, aller ]
+alethique_niveau2 :: 4 :: [ famille, famille, aller, aller ]
+axiologique_niveau0 :: 4 :: [ mal, juste, bien, bien ]
+boulique :: 3 :: [ contrecœur, besoin, essayer ]
+appreciatif_niveau0 :: 3 :: [ mal, bien, bien ]
+appreciatif_niveau1 :: 3 :: [ oser, difficile, difficile ]
+epistemique_niveau1 :: 3 :: [ connaître, difficile, difficile ]
+alethique_niveau1 :: 2 :: [ quitter, personne ]
+boulique_niveau0 :: 2 :: [ besoin, essayer ]
+pas_d_indication :: 1 :: [ oublier ]
+marqueurs_niveau3 :: 1 :: [ oublier ]
+axiologique_niveau1 :: 1 :: [ oser ]
+boulique_niveau1 :: 1 :: [ contrecœur ]
+deontique_niveau1 :: 1 :: [ laisser ]
+pas_d_indication_niveau3 :: 1 :: [ oublier ]
+Total feature counts: 164
+

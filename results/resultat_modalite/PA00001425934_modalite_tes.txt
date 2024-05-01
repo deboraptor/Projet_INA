@@ -1,0 +1,35 @@
+
+====== Text Level Features ======
+
+Features :: Feature-Counts :: Feature-Lemmas
+--------------------------------------------
+marqueurs :: 86 :: [ bien, sûr, travail, devoir, falloir, dire, urgence, aller, dire, élire, merci, urgence, merci, merci, bien, sûr, gros, devoir, vouloir, petit, laisser, famille, petit, devoir, souvent, petit, arriver, devoir, travail, falloir, bien, mériter, venir, claquer, grand, aller, travailler, beaucoup, agréable, toujours, envie, préférer, arriver, bon, repas, grand, vouloir, dire, falloir, dire, savoir, espérer, jouer, certain, pouvoir, penser, négatif, venir, besoin, penser, penser, pouvoir, penser, besoin, important, penser, penser, penser, besoin, venir, important, croire, dire, réaliser, savoir, volonté, aller, douter, vraiment, satisfait, travail, élu, bien, loi, savoir, travail ]
+marqueurs_niveau0 :: 56 :: [ bien, travail, devoir, falloir, dire, dire, bien, devoir, vouloir, petit, petit, devoir, souvent, petit, devoir, travail, falloir, bien, venir, grand, agréable, toujours, envie, bon, grand, vouloir, dire, falloir, dire, savoir, espérer, certain, pouvoir, penser, venir, besoin, penser, penser, pouvoir, penser, besoin, penser, penser, penser, besoin, venir, croire, dire, savoir, volonté, douter, satisfait, travail, bien, savoir, travail ]
+epistemique :: 32 :: [ sûr, devoir, sûr, gros, devoir, petit, petit, devoir, petit, devoir, grand, beaucoup, grand, savoir, espérer, certain, pouvoir, penser, penser, penser, pouvoir, penser, important, penser, penser, penser, important, croire, savoir, douter, vraiment, savoir ]
+epistemique_niveau0 :: 25 :: [ devoir, devoir, petit, petit, devoir, petit, devoir, grand, grand, savoir, espérer, certain, pouvoir, penser, penser, penser, pouvoir, penser, penser, penser, penser, croire, savoir, douter, savoir ]
+alethique :: 22 :: [ devoir, aller, devoir, famille, devoir, souvent, arriver, devoir, venir, aller, toujours, arriver, repas, pouvoir, venir, besoin, pouvoir, besoin, besoin, venir, réaliser, aller ]
+appreciatif :: 21 :: [ bien, travail, merci, merci, merci, bien, travail, bien, claquer, travailler, agréable, préférer, bon, repas, jouer, important, important, satisfait, travail, bien, travail ]
+boulique :: 14 :: [ dire, dire, vouloir, envie, vouloir, dire, dire, espérer, besoin, besoin, besoin, dire, volonté, satisfait ]
+marqueurs_niveau2 :: 14 :: [ aller, merci, merci, merci, famille, claquer, aller, beaucoup, préférer, repas, important, important, réaliser, aller ]
+alethique_niveau0 :: 14 :: [ devoir, devoir, devoir, souvent, devoir, venir, toujours, pouvoir, venir, besoin, pouvoir, besoin, besoin, venir ]
+boulique_niveau0 :: 14 :: [ dire, dire, vouloir, envie, vouloir, dire, dire, espérer, besoin, besoin, besoin, dire, volonté, satisfait ]
+axiologique :: 13 :: [ bien, merci, merci, merci, bien, bien, mériter, claquer, préférer, bon, important, important, bien ]
+deontique :: 11 :: [ devoir, falloir, devoir, laisser, devoir, devoir, falloir, falloir, pouvoir, pouvoir, loi ]
+marqueurs_niveau1 :: 11 :: [ sûr, sûr, gros, laisser, arriver, mériter, travailler, arriver, jouer, vraiment, loi ]
+appreciatif_niveau0 :: 11 :: [ bien, travail, bien, travail, bien, agréable, bon, satisfait, travail, bien, travail ]
+deontique_niveau0 :: 9 :: [ devoir, falloir, devoir, devoir, devoir, falloir, falloir, pouvoir, pouvoir ]
+appreciatif_niveau2 :: 8 :: [ merci, merci, merci, claquer, préférer, repas, important, important ]
+axiologique_niveau2 :: 7 :: [ merci, merci, merci, claquer, préférer, important, important ]
+alethique_niveau2 :: 6 :: [ aller, famille, aller, repas, réaliser, aller ]
+pas_d_indication :: 5 :: [ urgence, élire, urgence, négatif, élu ]
+marqueurs_niveau3 :: 5 :: [ urgence, élire, urgence, négatif, élu ]
+axiologique_niveau0 :: 5 :: [ bien, bien, bien, bon, bien ]
+pas_d_indication_niveau3 :: 5 :: [ urgence, élire, urgence, négatif, élu ]
+epistemique_niveau1 :: 4 :: [ sûr, sûr, gros, vraiment ]
+epistemique_niveau2 :: 3 :: [ beaucoup, important, important ]
+alethique_niveau1 :: 2 :: [ arriver, arriver ]
+appreciatif_niveau1 :: 2 :: [ travailler, jouer ]
+deontique_niveau1 :: 2 :: [ laisser, loi ]
+axiologique_niveau1 :: 1 :: [ mériter ]
+Total feature counts: 408
+

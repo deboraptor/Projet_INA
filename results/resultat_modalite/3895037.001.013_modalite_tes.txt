@@ -1,0 +1,31 @@
+
+====== Text Level Features ======
+
+Features :: Feature-Counts :: Feature-Lemmas
+--------------------------------------------
+marqueurs :: 37 :: [ grand, pouvoir, grand, certain, vite, beaucoup, grand, grand, craindre, perdre, espérer, grand, grand, certain, aller, mieux, aller, dire, pouvoir, hein, dire, sûr, pouvoir, aller, beaucoup, grand, aller, doute, beaucoup, cher, dire, arriver, pouvoir, aller, aller, mieux, espérer ]
+epistemique :: 22 :: [ grand, pouvoir, grand, certain, vite, beaucoup, grand, grand, craindre, espérer, grand, grand, certain, pouvoir, sûr, pouvoir, beaucoup, grand, doute, beaucoup, pouvoir, espérer ]
+marqueurs_niveau0 :: 21 :: [ grand, pouvoir, grand, certain, vite, grand, grand, craindre, espérer, grand, grand, certain, dire, pouvoir, dire, pouvoir, grand, doute, dire, pouvoir, espérer ]
+epistemique_niveau0 :: 18 :: [ grand, pouvoir, grand, certain, vite, grand, grand, craindre, espérer, grand, grand, certain, pouvoir, pouvoir, grand, doute, pouvoir, espérer ]
+alethique :: 11 :: [ pouvoir, aller, aller, pouvoir, pouvoir, aller, aller, arriver, pouvoir, aller, aller ]
+marqueurs_niveau2 :: 9 :: [ beaucoup, aller, aller, aller, beaucoup, aller, beaucoup, aller, aller ]
+alethique_niveau2 :: 6 :: [ aller, aller, aller, aller, aller, aller ]
+boulique :: 5 :: [ espérer, dire, dire, dire, espérer ]
+marqueurs_niveau1 :: 5 :: [ perdre, mieux, sûr, arriver, mieux ]
+boulique_niveau0 :: 5 :: [ espérer, dire, dire, dire, espérer ]
+appreciatif :: 4 :: [ craindre, perdre, mieux, mieux ]
+deontique :: 4 :: [ pouvoir, pouvoir, pouvoir, pouvoir ]
+alethique_niveau0 :: 4 :: [ pouvoir, pouvoir, pouvoir, pouvoir ]
+deontique_niveau0 :: 4 :: [ pouvoir, pouvoir, pouvoir, pouvoir ]
+appreciatif_niveau1 :: 3 :: [ perdre, mieux, mieux ]
+epistemique_niveau2 :: 3 :: [ beaucoup, beaucoup, beaucoup ]
+axiologique :: 2 :: [ mieux, mieux ]
+pas_d_indication :: 2 :: [ hein, cher ]
+marqueurs_niveau3 :: 2 :: [ hein, cher ]
+axiologique_niveau1 :: 2 :: [ mieux, mieux ]
+pas_d_indication_niveau3 :: 2 :: [ hein, cher ]
+alethique_niveau1 :: 1 :: [ arriver ]
+appreciatif_niveau0 :: 1 :: [ craindre ]
+epistemique_niveau1 :: 1 :: [ sûr ]
+Total feature counts: 174
+

@@ -1,0 +1,62 @@
+
+====== Text Level Features ======
+
+Features :: Feature-Counts :: Feature-Lemmas
+--------------------------------------------
+marqueurs :: 42 :: [ grand, savoir, paraître, bien, préoccupation, merci, falloir, grand, arriver, attaquer, dire, décider, vouloir, aucun, petit, toujours, nécessité, école, école, petit, considérer, falloir, venir, possible, pouvoir, école, vouloir, grand, élire, élire, pardon, élire, décider, vouloir, intéresser, vrai, passionner, vrai, pouvoir, penser, petit, préoccupation ]
+marqueurs_niveau0 :: 26 :: [ grand, savoir, paraître, bien, falloir, grand, dire, décider, vouloir, aucun, petit, toujours, nécessité, petit, considérer, falloir, venir, possible, pouvoir, vouloir, grand, décider, vouloir, pouvoir, penser, petit ]
+epistemique :: 16 :: [ grand, savoir, paraître, grand, décider, petit, petit, considérer, pouvoir, grand, décider, vrai, vrai, pouvoir, penser, petit ]
+epistemique_niveau0 :: 14 :: [ grand, savoir, paraître, grand, décider, petit, petit, considérer, pouvoir, grand, décider, pouvoir, penser, petit ]
+alethique :: 11 :: [ arriver, aucun, toujours, nécessité, école, école, venir, possible, pouvoir, école, pouvoir ]
+marqueurs_niveau2 :: 7 :: [ préoccupation, merci, école, école, école, pardon, préoccupation ]
+alethique_niveau0 :: 7 :: [ aucun, toujours, nécessité, venir, possible, pouvoir, pouvoir ]
+boulique :: 6 :: [ dire, décider, vouloir, vouloir, décider, vouloir ]
+pas_d_indication :: 6 :: [ attaquer, élire, élire, élire, intéresser, passionner ]
+marqueurs_niveau3 :: 6 :: [ attaquer, élire, élire, élire, intéresser, passionner ]
+boulique_niveau0 :: 6 :: [ dire, décider, vouloir, vouloir, décider, vouloir ]
+pas_d_indication_niveau3 :: 6 :: [ attaquer, élire, élire, élire, intéresser, passionner ]
+appreciatif :: 4 :: [ bien, préoccupation, merci, préoccupation ]
+deontique :: 4 :: [ falloir, falloir, pouvoir, pouvoir ]
+deontique_niveau0 :: 4 :: [ falloir, falloir, pouvoir, pouvoir ]
+axiologique :: 3 :: [ bien, merci, pardon ]
+marqueurs_niveau1 :: 3 :: [ arriver, vrai, vrai ]
+alethique_niveau2 :: 3 :: [ école, école, école ]
+appreciatif_niveau2 :: 3 :: [ préoccupation, merci, préoccupation ]
+axiologique_niveau2 :: 2 :: [ merci, pardon ]
+epistemique_niveau1 :: 2 :: [ vrai, vrai ]
+alethique_niveau1 :: 1 :: [ arriver ]
+appreciatif_niveau0 :: 1 :: [ bien ]
+axiologique_niveau0 :: 1 :: [ bien ]
+Total feature counts: 184
+
+
+====== Text Level Features ======
+
+Features :: Feature-Counts :: Feature-Lemmas
+--------------------------------------------
+marqueurs :: 42 :: [ grand, savoir, paraître, bien, préoccupation, merci, falloir, grand, arriver, attaquer, dire, décider, vouloir, aucun, petit, toujours, nécessité, école, école, petit, considérer, falloir, venir, possible, pouvoir, école, vouloir, grand, élire, élire, pardon, élire, décider, vouloir, intéresser, vrai, passionner, vrai, pouvoir, penser, petit, préoccupation ]
+marqueurs_niveau0 :: 26 :: [ grand, savoir, paraître, bien, falloir, grand, dire, décider, vouloir, aucun, petit, toujours, nécessité, petit, considérer, falloir, venir, possible, pouvoir, vouloir, grand, décider, vouloir, pouvoir, penser, petit ]
+epistemique :: 16 :: [ grand, savoir, paraître, grand, décider, petit, petit, considérer, pouvoir, grand, décider, vrai, vrai, pouvoir, penser, petit ]
+epistemique_niveau0 :: 14 :: [ grand, savoir, paraître, grand, décider, petit, petit, considérer, pouvoir, grand, décider, pouvoir, penser, petit ]
+alethique :: 11 :: [ arriver, aucun, toujours, nécessité, école, école, venir, possible, pouvoir, école, pouvoir ]
+marqueurs_niveau2 :: 7 :: [ préoccupation, merci, école, école, école, pardon, préoccupation ]
+alethique_niveau0 :: 7 :: [ aucun, toujours, nécessité, venir, possible, pouvoir, pouvoir ]
+boulique :: 6 :: [ dire, décider, vouloir, vouloir, décider, vouloir ]
+pas_d_indication :: 6 :: [ attaquer, élire, élire, élire, intéresser, passionner ]
+marqueurs_niveau3 :: 6 :: [ attaquer, élire, élire, élire, intéresser, passionner ]
+boulique_niveau0 :: 6 :: [ dire, décider, vouloir, vouloir, décider, vouloir ]
+pas_d_indication_niveau3 :: 6 :: [ attaquer, élire, élire, élire, intéresser, passionner ]
+appreciatif :: 4 :: [ bien, préoccupation, merci, préoccupation ]
+deontique :: 4 :: [ falloir, falloir, pouvoir, pouvoir ]
+deontique_niveau0 :: 4 :: [ falloir, falloir, pouvoir, pouvoir ]
+axiologique :: 3 :: [ bien, merci, pardon ]
+marqueurs_niveau1 :: 3 :: [ arriver, vrai, vrai ]
+alethique_niveau2 :: 3 :: [ école, école, école ]
+appreciatif_niveau2 :: 3 :: [ préoccupation, merci, préoccupation ]
+axiologique_niveau2 :: 2 :: [ merci, pardon ]
+epistemique_niveau1 :: 2 :: [ vrai, vrai ]
+alethique_niveau1 :: 1 :: [ arriver ]
+appreciatif_niveau0 :: 1 :: [ bien ]
+axiologique_niveau0 :: 1 :: [ bien ]
+Total feature counts: 184
+

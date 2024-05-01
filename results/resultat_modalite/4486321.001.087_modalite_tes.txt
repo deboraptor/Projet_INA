@@ -1,0 +1,29 @@
+
+====== Text Level Features ======
+
+Features :: Feature-Counts :: Feature-Lemmas
+--------------------------------------------
+marqueurs :: 24 :: [ dénoncer, aucun, grand, abandonner, grand, travail, gigantesque, devoir, beau, bien, considérer, bon, considérer, bon, juste, pouvoir, juste, pouvoir, fort, affrontement, dénoncer, beau, bien, bon ]
+marqueurs_niveau0 :: 18 :: [ aucun, grand, grand, travail, devoir, beau, bien, considérer, bon, considérer, bon, juste, pouvoir, juste, pouvoir, beau, bien, bon ]
+axiologique :: 10 :: [ dénoncer, bien, bon, bon, juste, juste, affrontement, dénoncer, bien, bon ]
+epistemique :: 9 :: [ grand, abandonner, grand, gigantesque, devoir, considérer, considérer, pouvoir, pouvoir ]
+appreciatif :: 8 :: [ travail, beau, bien, bon, bon, beau, bien, bon ]
+appreciatif_niveau0 :: 8 :: [ travail, beau, bien, bon, bon, beau, bien, bon ]
+axiologique_niveau0 :: 7 :: [ bien, bon, bon, juste, juste, bien, bon ]
+epistemique_niveau0 :: 7 :: [ grand, grand, devoir, considérer, considérer, pouvoir, pouvoir ]
+alethique :: 4 :: [ aucun, devoir, pouvoir, pouvoir ]
+alethique_niveau0 :: 4 :: [ aucun, devoir, pouvoir, pouvoir ]
+deontique :: 3 :: [ devoir, pouvoir, pouvoir ]
+marqueurs_niveau1 :: 3 :: [ abandonner, gigantesque, affrontement ]
+deontique_niveau0 :: 3 :: [ devoir, pouvoir, pouvoir ]
+marqueurs_niveau2 :: 2 :: [ dénoncer, dénoncer ]
+axiologique_niveau2 :: 2 :: [ dénoncer, dénoncer ]
+epistemique_niveau1 :: 2 :: [ abandonner, gigantesque ]
+boulique :: 1 :: [ abandonner ]
+pas_d_indication :: 1 :: [ fort ]
+marqueurs_niveau3 :: 1 :: [ fort ]
+axiologique_niveau1 :: 1 :: [ affrontement ]
+boulique_niveau1 :: 1 :: [ abandonner ]
+pas_d_indication_niveau3 :: 1 :: [ fort ]
+Total feature counts: 120
+

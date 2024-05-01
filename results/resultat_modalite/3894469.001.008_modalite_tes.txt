@@ -1,0 +1,32 @@
+
+====== Text Level Features ======
+
+Features :: Feature-Counts :: Feature-Lemmas
+--------------------------------------------
+marqueurs :: 42 :: [ intéresser, travail, personne, connaître, nécessaire, travail, pouvoir, pouvoir, penser, aller, pouvoir, pouvoir, falloir, savoir, utile, agréable, croire, positif, travail, hein, falloir, sûrement, aller, véritable, bien, sûr, long, important, aller, véritable, vouloir, pouvoir, pouvoir, travail, évidemment, travail, bon, travail, évidemment, heureusement, travail, aller ]
+marqueurs_niveau0 :: 26 :: [ travail, nécessaire, travail, pouvoir, pouvoir, penser, pouvoir, pouvoir, falloir, savoir, utile, agréable, croire, travail, falloir, sûrement, bien, vouloir, pouvoir, pouvoir, travail, travail, bon, travail, heureusement, travail ]
+epistemique :: 16 :: [ connaître, pouvoir, pouvoir, penser, pouvoir, pouvoir, savoir, croire, sûrement, sûr, long, important, pouvoir, pouvoir, évidemment, évidemment ]
+appreciatif :: 13 :: [ travail, travail, utile, agréable, travail, bien, important, travail, travail, bon, travail, heureusement, travail ]
+alethique :: 12 :: [ personne, nécessaire, pouvoir, pouvoir, aller, pouvoir, pouvoir, aller, aller, pouvoir, pouvoir, aller ]
+appreciatif_niveau0 :: 12 :: [ travail, travail, utile, agréable, travail, bien, travail, travail, bon, travail, heureusement, travail ]
+epistemique_niveau0 :: 10 :: [ pouvoir, pouvoir, penser, pouvoir, pouvoir, savoir, croire, sûrement, pouvoir, pouvoir ]
+deontique :: 8 :: [ pouvoir, pouvoir, pouvoir, pouvoir, falloir, falloir, pouvoir, pouvoir ]
+deontique_niveau0 :: 8 :: [ pouvoir, pouvoir, pouvoir, pouvoir, falloir, falloir, pouvoir, pouvoir ]
+alethique_niveau0 :: 7 :: [ nécessaire, pouvoir, pouvoir, pouvoir, pouvoir, pouvoir, pouvoir ]
+marqueurs_niveau1 :: 6 :: [ personne, connaître, sûr, long, évidemment, évidemment ]
+pas_d_indication :: 5 :: [ intéresser, positif, hein, véritable, véritable ]
+marqueurs_niveau2 :: 5 :: [ aller, aller, important, aller, aller ]
+marqueurs_niveau3 :: 5 :: [ intéresser, positif, hein, véritable, véritable ]
+epistemique_niveau1 :: 5 :: [ connaître, sûr, long, évidemment, évidemment ]
+pas_d_indication_niveau3 :: 5 :: [ intéresser, positif, hein, véritable, véritable ]
+alethique_niveau2 :: 4 :: [ aller, aller, aller, aller ]
+axiologique :: 3 :: [ bien, important, bon ]
+axiologique_niveau0 :: 2 :: [ bien, bon ]
+boulique :: 1 :: [ vouloir ]
+alethique_niveau1 :: 1 :: [ personne ]
+appreciatif_niveau2 :: 1 :: [ important ]
+axiologique_niveau2 :: 1 :: [ important ]
+boulique_niveau0 :: 1 :: [ vouloir ]
+epistemique_niveau2 :: 1 :: [ important ]
+Total feature counts: 200
+

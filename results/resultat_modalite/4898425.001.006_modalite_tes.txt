@@ -1,0 +1,34 @@
+
+====== Text Level Features ======
+
+Features :: Feature-Counts :: Feature-Lemmas
+--------------------------------------------
+marqueurs :: 45 :: [ grand, réalité, grand, gigantesque, grand, protestation, élu, enterrement, demander, élu, vouloir, grand, vouloir, grand, grand, possible, bien, nul, pouvoir, aller, dire, bon, hein, long, vouloir, dire, dire, bien, arriver, dire, aller, bon, volonté, pouvoir, vouloir, dire, grand, réaliser, pouvoir, réaliser, important, pouvoir, pouvoir, possible, protestation ]
+marqueurs_niveau0 :: 29 :: [ grand, grand, grand, demander, vouloir, grand, vouloir, grand, grand, possible, bien, pouvoir, dire, bon, vouloir, dire, dire, bien, dire, bon, volonté, pouvoir, vouloir, dire, grand, pouvoir, pouvoir, pouvoir, possible ]
+epistemique :: 15 :: [ grand, grand, gigantesque, grand, grand, grand, grand, pouvoir, long, pouvoir, grand, pouvoir, important, pouvoir, pouvoir ]
+alethique :: 13 :: [ réalité, possible, pouvoir, aller, arriver, aller, pouvoir, réaliser, pouvoir, réaliser, pouvoir, pouvoir, possible ]
+epistemique_niveau0 :: 12 :: [ grand, grand, grand, grand, grand, grand, pouvoir, pouvoir, grand, pouvoir, pouvoir, pouvoir ]
+boulique :: 11 :: [ demander, vouloir, vouloir, dire, vouloir, dire, dire, dire, volonté, vouloir, dire ]
+boulique_niveau0 :: 11 :: [ demander, vouloir, vouloir, dire, vouloir, dire, dire, dire, volonté, vouloir, dire ]
+alethique_niveau0 :: 7 :: [ possible, pouvoir, pouvoir, pouvoir, pouvoir, pouvoir, possible ]
+appreciatif :: 6 :: [ bien, nul, bon, bien, bon, important ]
+axiologique :: 6 :: [ bien, nul, bon, bien, bon, important ]
+pas_d_indication :: 6 :: [ protestation, élu, enterrement, élu, hein, protestation ]
+marqueurs_niveau2 :: 6 :: [ réalité, aller, aller, réaliser, réaliser, important ]
+marqueurs_niveau3 :: 6 :: [ protestation, élu, enterrement, élu, hein, protestation ]
+pas_d_indication_niveau3 :: 6 :: [ protestation, élu, enterrement, élu, hein, protestation ]
+deontique :: 5 :: [ pouvoir, pouvoir, pouvoir, pouvoir, pouvoir ]
+alethique_niveau2 :: 5 :: [ réalité, aller, aller, réaliser, réaliser ]
+deontique_niveau0 :: 5 :: [ pouvoir, pouvoir, pouvoir, pouvoir, pouvoir ]
+marqueurs_niveau1 :: 4 :: [ gigantesque, nul, long, arriver ]
+appreciatif_niveau0 :: 4 :: [ bien, bon, bien, bon ]
+axiologique_niveau0 :: 4 :: [ bien, bon, bien, bon ]
+epistemique_niveau1 :: 2 :: [ gigantesque, long ]
+alethique_niveau1 :: 1 :: [ arriver ]
+appreciatif_niveau1 :: 1 :: [ nul ]
+appreciatif_niveau2 :: 1 :: [ important ]
+axiologique_niveau1 :: 1 :: [ nul ]
+axiologique_niveau2 :: 1 :: [ important ]
+epistemique_niveau2 :: 1 :: [ important ]
+Total feature counts: 214
+

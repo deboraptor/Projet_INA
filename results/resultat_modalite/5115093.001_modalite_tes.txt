@@ -1,0 +1,35 @@
+
+====== Text Level Features ======
+
+Features :: Feature-Counts :: Feature-Lemmas
+--------------------------------------------
+marqueurs :: 99 :: [ devoir, fidèle, incroyable, devoir, respectueux, dire, falloir, améliorer, aller, tenter, grand, aller, petit, petit, grand, bien, connaître, important, petit, souvent, bien, fort, petit, détruire, juste, partir, protéger, extraordinaire, vieux, important, travail, bien, falloir, imaginer, grand, rêver, grand, pouvoir, grand, devoir, besoin, favoriser, grand, petit, permettre, aller, devoir, ouvrir, aller, devoir, permettre, important, important, grand, emploi, vouloir, grand, devoir, rare, grand, selon, grand, devoir, permettre, juste, aucun, réaliser, grand, intérêt, loi, certain, grand, triangle, haut, devoir, travail, pouvoir, pouvoir, grand, pouvoir, mieux, découvrir, venir, pouvoir, manipuler, grand, grand, besoin, falloir, améliorer, bien, réussir, mieux, problème, évidemment, certain, crise, crise, peine ]
+marqueurs_niveau0 :: 62 :: [ devoir, fidèle, devoir, dire, falloir, grand, petit, petit, grand, bien, petit, souvent, bien, petit, juste, travail, bien, falloir, imaginer, grand, grand, pouvoir, grand, devoir, besoin, grand, petit, permettre, devoir, ouvrir, devoir, permettre, grand, vouloir, grand, devoir, grand, selon, grand, devoir, permettre, juste, aucun, grand, certain, grand, triangle, devoir, travail, pouvoir, pouvoir, grand, pouvoir, venir, pouvoir, grand, grand, besoin, falloir, bien, réussir, certain ]
+epistemique :: 48 :: [ devoir, incroyable, devoir, grand, petit, petit, grand, connaître, important, petit, petit, extraordinaire, important, imaginer, grand, grand, pouvoir, grand, devoir, grand, petit, devoir, devoir, important, important, grand, grand, devoir, rare, grand, selon, grand, devoir, grand, certain, grand, devoir, pouvoir, pouvoir, grand, pouvoir, pouvoir, grand, grand, évidemment, certain, crise, crise ]
+epistemique_niveau0 :: 37 :: [ devoir, devoir, grand, petit, petit, grand, petit, petit, imaginer, grand, grand, pouvoir, grand, devoir, grand, petit, devoir, devoir, grand, grand, devoir, grand, selon, grand, devoir, grand, certain, grand, devoir, pouvoir, pouvoir, grand, pouvoir, pouvoir, grand, grand, certain ]
+appreciatif :: 26 :: [ incroyable, respectueux, améliorer, bien, important, bien, détruire, extraordinaire, important, travail, bien, favoriser, important, important, emploi, travail, mieux, manipuler, améliorer, bien, réussir, mieux, problème, crise, crise, peine ]
+alethique :: 25 :: [ devoir, devoir, aller, aller, souvent, partir, pouvoir, devoir, besoin, aller, devoir, aller, devoir, devoir, devoir, aucun, réaliser, triangle, devoir, pouvoir, pouvoir, pouvoir, venir, pouvoir, besoin ]
+deontique :: 20 :: [ devoir, devoir, falloir, falloir, pouvoir, devoir, permettre, devoir, devoir, permettre, devoir, devoir, permettre, loi, devoir, pouvoir, pouvoir, pouvoir, pouvoir, falloir ]
+alethique_niveau0 :: 19 :: [ devoir, devoir, souvent, pouvoir, devoir, besoin, devoir, devoir, devoir, devoir, aucun, triangle, devoir, pouvoir, pouvoir, pouvoir, venir, pouvoir, besoin ]
+deontique_niveau0 :: 19 :: [ devoir, devoir, falloir, falloir, pouvoir, devoir, permettre, devoir, devoir, permettre, devoir, devoir, permettre, devoir, pouvoir, pouvoir, pouvoir, pouvoir, falloir ]
+axiologique :: 18 :: [ fidèle, respectueux, améliorer, bien, important, bien, détruire, juste, important, bien, important, important, juste, mieux, manipuler, améliorer, bien, mieux ]
+marqueurs_niveau1 :: 17 :: [ incroyable, respectueux, améliorer, tenter, connaître, rêver, emploi, intérêt, loi, mieux, améliorer, mieux, problème, évidemment, crise, crise, peine ]
+marqueurs_niveau2 :: 15 :: [ aller, aller, important, détruire, partir, extraordinaire, important, favoriser, aller, aller, important, important, rare, réaliser, manipuler ]
+appreciatif_niveau1 :: 11 :: [ incroyable, respectueux, améliorer, emploi, mieux, améliorer, mieux, problème, crise, crise, peine ]
+boulique :: 8 :: [ dire, tenter, rêver, besoin, ouvrir, vouloir, intérêt, besoin ]
+appreciatif_niveau2 :: 8 :: [ important, détruire, extraordinaire, important, favoriser, important, important, manipuler ]
+appreciatif_niveau0 :: 7 :: [ bien, bien, travail, bien, travail, bien, réussir ]
+axiologique_niveau0 :: 7 :: [ fidèle, bien, bien, juste, bien, juste, bien ]
+alethique_niveau2 :: 6 :: [ aller, aller, partir, aller, aller, réaliser ]
+axiologique_niveau2 :: 6 :: [ important, détruire, important, important, important, manipuler ]
+epistemique_niveau2 :: 6 :: [ important, extraordinaire, important, important, important, rare ]
+pas_d_indication :: 5 :: [ fort, protéger, vieux, haut, découvrir ]
+marqueurs_niveau3 :: 5 :: [ fort, protéger, vieux, haut, découvrir ]
+axiologique_niveau1 :: 5 :: [ respectueux, améliorer, mieux, améliorer, mieux ]
+boulique_niveau0 :: 5 :: [ dire, besoin, ouvrir, vouloir, besoin ]
+epistemique_niveau1 :: 5 :: [ incroyable, connaître, évidemment, crise, crise ]
+pas_d_indication_niveau3 :: 5 :: [ fort, protéger, vieux, haut, découvrir ]
+boulique_niveau1 :: 3 :: [ tenter, rêver, intérêt ]
+deontique_niveau1 :: 1 :: [ loi ]
+Total feature counts: 498
+

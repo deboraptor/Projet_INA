@@ -1,0 +1,41 @@
+
+====== Text Level Features ======
+
+
+====== Text Level Features ======
+
+
+====== Text Level Features ======
+
+Features :: Feature-Counts :: Feature-Lemmas
+--------------------------------------------
+marqueurs :: 34 :: [ bien, élu, élu, arriver, combat, besoin, tendre, surprise, féliciter, certain, pouvoir, pouvoir, croire, volonté, imposer, haut, bien, offrir, véritable, espérer, important, falloir, falloir, travailler, aller, aller, évidemment, espérer, aller, réussir, aller, vite, loi, penser ]
+marqueurs_niveau0 :: 16 :: [ bien, besoin, féliciter, certain, pouvoir, pouvoir, croire, volonté, bien, espérer, falloir, falloir, espérer, réussir, vite, penser ]
+epistemique :: 10 :: [ certain, pouvoir, pouvoir, croire, espérer, important, évidemment, espérer, vite, penser ]
+alethique :: 8 :: [ arriver, besoin, pouvoir, pouvoir, aller, aller, aller, aller ]
+epistemique_niveau0 :: 8 :: [ certain, pouvoir, pouvoir, croire, espérer, espérer, vite, penser ]
+appreciatif :: 7 :: [ bien, féliciter, bien, offrir, important, travailler, réussir ]
+marqueurs_niveau1 :: 7 :: [ arriver, combat, imposer, offrir, travailler, évidemment, loi ]
+deontique :: 6 :: [ pouvoir, pouvoir, imposer, falloir, falloir, loi ]
+pas_d_indication :: 6 :: [ élu, élu, tendre, surprise, haut, véritable ]
+marqueurs_niveau3 :: 6 :: [ élu, élu, tendre, surprise, haut, véritable ]
+pas_d_indication_niveau3 :: 6 :: [ élu, élu, tendre, surprise, haut, véritable ]
+marqueurs_niveau2 :: 5 :: [ important, aller, aller, aller, aller ]
+axiologique :: 4 :: [ bien, combat, bien, important ]
+boulique :: 4 :: [ besoin, volonté, espérer, espérer ]
+alethique_niveau2 :: 4 :: [ aller, aller, aller, aller ]
+appreciatif_niveau0 :: 4 :: [ bien, féliciter, bien, réussir ]
+boulique_niveau0 :: 4 :: [ besoin, volonté, espérer, espérer ]
+deontique_niveau0 :: 4 :: [ pouvoir, pouvoir, falloir, falloir ]
+alethique_niveau0 :: 3 :: [ besoin, pouvoir, pouvoir ]
+appreciatif_niveau1 :: 2 :: [ offrir, travailler ]
+axiologique_niveau0 :: 2 :: [ bien, bien ]
+deontique_niveau1 :: 2 :: [ imposer, loi ]
+alethique_niveau1 :: 1 :: [ arriver ]
+appreciatif_niveau2 :: 1 :: [ important ]
+axiologique_niveau1 :: 1 :: [ combat ]
+axiologique_niveau2 :: 1 :: [ important ]
+epistemique_niveau1 :: 1 :: [ évidemment ]
+epistemique_niveau2 :: 1 :: [ important ]
+Total feature counts: 158
+
