@@ -9,6 +9,8 @@ import os
 
 
 fichiers = glob.glob("./output/*traite.csv")
+fichiers_gold = glob.glob("./output/gold_standard/*.csv")
+
 sortie_fichier = "./output/graphes/"
 sortie_fichier_total = "./output"
 
@@ -73,7 +75,7 @@ for fichier in fichiers:
     plt.clf()
 
     ########################################
-    # Sentiment dominant de chaque fichier #
+    # Données gold pour chaque fichier #
     ########################################
 
     sentiment_dominant = sentiment_counts.most_common(1)
@@ -83,3 +85,16 @@ for fichier in fichiers:
 
 tableau.insert(0, ["Fichier", "Sentiment dominant", "Nombre d'occurrences"])
 print(tabulate(tableau, headers="firstrow", tablefmt="rounded_outline"))
+
+
+####################################
+# Données gold pour chaque fichier #
+####################################
+
+for fichier in fichiers_gold:
+    read = pd.read_csv(fichier)
+    df = pd.DataFrame(read)
+    label_list = df['label'].tolist()
+    case1 = label_list[0]
+    case1_list = [case1]
+    # print(case1_list)
