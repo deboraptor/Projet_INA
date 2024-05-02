@@ -90,8 +90,8 @@ for fichier in fichiers:
 
     tableau.append([f"Fichier {fichier_numero} : {os.path.basename(fichier).replace('_output_traite.csv', '')}", sentiment_dominant[0][0], sentiment_dominant[0][1]])
 
-tableau.insert(0, ["Fichier", "Sentiment dominant", "Nombre d'occurrences"])
-print(tabulate(tableau, headers="firstrow", tablefmt="rounded_outline"))
+# tableau.insert(0, ["Fichier", "Sentiment dominant", "Nombre d'occurrences"])
+# print(tabulate(tableau, headers="firstrow", tablefmt="rounded_outline"))
 
 ####################################
 # Données gold pour chaque fichier #
