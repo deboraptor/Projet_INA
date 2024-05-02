@@ -17,6 +17,9 @@ sortie_fichier_total = "./output"
 tableau = []
 fichier_numero = 0
 
+gold = []
+machine = []
+
 sentiment_couleurs = {
     "sadness": "skyblue",
     "love": "gold",
@@ -80,12 +83,15 @@ for fichier in fichiers:
 
     sentiment_dominant = sentiment_counts.most_common(1)
     # print(f"Sentiment dominant du fichier {fichier} : {sentiment_dominant[0][0]} ({sentiment_dominant[0][1]} occurrences)")
+
+    for sentiment in sentiment_dominant:
+        gold.append(sentiment[0])
     
+
     tableau.append([f"Fichier {fichier_numero} : {os.path.basename(fichier).replace('_output_traite.csv', '')}", sentiment_dominant[0][0], sentiment_dominant[0][1]])
 
 tableau.insert(0, ["Fichier", "Sentiment dominant", "Nombre d'occurrences"])
 print(tabulate(tableau, headers="firstrow", tablefmt="rounded_outline"))
-
 
 ####################################
 # Données gold pour chaque fichier #
@@ -94,7 +100,8 @@ print(tabulate(tableau, headers="firstrow", tablefmt="rounded_outline"))
 for fichier in fichiers_gold:
     read = pd.read_csv(fichier)
     df = pd.DataFrame(read)
-    label_list = df['label'].tolist()
-    case1 = label_list[0]
-    case1_list = [case1]
-    # print(case1_list)
+    label_liste = df['label'].tolist()
+    case1 = label_liste[0]
+    case1_liste = [case1]
+    machine.append(case1)
+
